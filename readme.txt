@@ -7,3 +7,4 @@ Git tracks changes of files
 Creating a new branch is quick
 nimen shitamen zhuma 
 Creating a new branch is quick and simple.
+这是一次伟大的改变，哈哈哈
